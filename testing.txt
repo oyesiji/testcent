@@ -4,3 +4,8 @@ init3
 init 10
 init 12
 init 13
+
+
+monday
+tuesday
+wednesday
