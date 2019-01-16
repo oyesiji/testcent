@@ -6,6 +6,9 @@ init 12
 init 13
 
 
+
 monday
 tuesday
 wednesday
+xmas
+ramadn
