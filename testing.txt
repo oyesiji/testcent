@@ -12,3 +12,6 @@ tuesday
 wednesday
 xmas
 ramadn
+5
+6
+7
