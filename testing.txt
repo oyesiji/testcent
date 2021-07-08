@@ -1,4 +1,46 @@
 init 1
+init2
+init3
 init 10
 init 12
 init 13
+
+
+
+monday
+tuesday
+wednesday
+xmas
+ramadn
+5
+6
+7
+1
+2
+3
+d
+e
+f
+
+a
+b
+c
+
+g
+
+d
+
+y
+
+x
+
+y
+
+z
+
+three
+four
+five
+one
+two
+three
